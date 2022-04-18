@@ -1,0 +1,18 @@
+1.- npx create-nuxt-app .
+2.- y
+3.- *Enter*
+4.- JavaScript
+5.- Npm
+6.- Vuetify.js
+7.- (*) Progressive Web App (PWA)
+    (*) Content - Git-based headless CMS
+8.- *Enter*
+9.- None
+10.- Single Page App
+11.- Static (Static/Jamstack hosting)
+12.- (*) jsconfig.json (Recommended for VS Code if you're not using typescript)
+13.- *Es tu cuenta de github, supongo que es opcional xd*
+14.- Git
+15.- npm i @nuxt/types @sweetalert2/theme-material-ui nuxt-webfontloader vue-sweetalert2
+
+
